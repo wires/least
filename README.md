@@ -2,6 +2,8 @@
 
 Wow. Such viewer. Much ANSI.
 
+![](screenshot.png)
+
 ### Usage
 
 ```sh
