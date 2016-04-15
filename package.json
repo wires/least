@@ -1,0 +1,25 @@
+{
+  "name": "least",
+  "version": "0.0.1",
+  "author": "Jelle 'wires' Herold <jelle@defekt.nl>",
+  "license": "AGPL-1.0",
+  "description": "View files on the commandline",
+  "main": "viewer.js",
+  "bin": {
+    "least": "viewer.js"
+  },
+  "keywords": ["commandline", "terminal", "ansi", "msgpack"],
+  "dependencies": {
+    "msgpack": "^1.0.2",
+    "prettyjson": "^1.1.3",
+    "ramda": "^0.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wires/least.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wires/least/issues"
+  },
+  "homepage": "https://github.com/wires/least#readme",
+}
