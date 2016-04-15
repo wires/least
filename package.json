@@ -1,12 +1,11 @@
 {
   "name": "least",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jelle 'wires' Herold <jelle@defekt.nl>",
   "license": "AGPL-1.0",
   "description": "View files on the commandline",
-  "main": "viewer.js",
   "bin": {
-    "least": "viewer.js"
+    "least": "bin/least.js"
   },
   "keywords": ["commandline", "terminal", "ansi", "msgpack"],
   "dependencies": {

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var argv = require('minimist')(process.argv.slice(2))
 var fs = require('fs')
 var R = require('ramda')
